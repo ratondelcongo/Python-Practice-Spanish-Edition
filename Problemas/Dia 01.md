@@ -14,7 +14,7 @@
 
 ### **Pregunta**
 
->***Escriba un programa que pueda calcular el factorial de un número dado por consola.*** ***La siguiente entrada al programa:***
+>***Escriba un programa que pueda calcular el factorial de un número dado por consola.*** ***Suponga la siguiente entrada al programa:***
 
 ```python
 8
@@ -34,7 +34,7 @@
 
 ### **Pregunta**
 
->***Con un número entero dado por consola, n, escriba un programa para generar un diccionario que contenga como llave X y como valor el cuadrado de X tal que X sea un número entero entre 1 y n (ambos incluidos), y luego el programa debe imprimir el diccionario.*** ***La siguiente entrada al programa:***
+>***Con un número entero dado por consola, n, escriba un programa para generar un diccionario que contenga como llave X y como valor el cuadrado de X tal que X sea un número entero entre 1 y n (ambos incluidos), y luego el programa debe imprimir el diccionario.*** ***Suponga la siguiente entrada al programa:***
 
 ```python
 8
