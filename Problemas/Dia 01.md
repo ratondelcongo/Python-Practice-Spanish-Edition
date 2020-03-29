@@ -14,18 +14,17 @@
 
 ### **Pregunta**
 
->***Escriba un programa que pueda calcular el factorial de un número dado por consola.***
->>***La siguiente entrada al programa:***
+>***Escriba un programa que pueda calcular el factorial de un número dado por consola.******La siguiente entrada al programa:***
 
->>```python
->>8
->>```
+```python
+8
+```
 
->>***Entonces, la salida debería ser:***
+>***Entonces, la salida debería ser:***
 
->>```python
->>40320
->>```
+```python
+40320
+```
 
 ### Consejos
 
@@ -35,18 +34,17 @@
 
 ### **Pregunta**
 
->***Con un número entero dado por consola, n, escriba un programa para generar un diccionario que contenga como llave X y como valor el cuadrado de X tal que X sea un número entero entre 1 y n (ambos incluidos), y luego el programa debe imprimir el diccionario.***
->>***La siguiente entrada al programa:***
+>***Con un número entero dado por consola, n, escriba un programa para generar un diccionario que contenga como llave X y como valor el cuadrado de X tal que X sea un número entero entre 1 y n (ambos incluidos), y luego el programa debe imprimir el diccionario.******La siguiente entrada al programa:***
 
->>```python
->>8
->>```
+```python
+8
+```
 
->>***Entonces, la salida debería ser:***
+>***Entonces, la salida debería ser:***
 
->>```python
->>{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
->>```
+```python
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+```
 
 ### Consejos
 
