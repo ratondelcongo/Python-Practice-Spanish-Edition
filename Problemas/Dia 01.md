@@ -14,14 +14,14 @@
 
 ### **Pregunta**
 
->***Escriba un programa que pueda calcular el factorial de un número dado por consola. Suponga que se proporciona.***
-***La siguiente entrada al programa:***
+>***Escriba un programa que pueda calcular el factorial de un número dado por consola.***
+>***La siguiente entrada al programa:***
 
 ```python
 8
 ```
 
-***Entonces, la salida debería ser:***
+>***Entonces, la salida debería ser:***
 
 ```python
 40320
@@ -36,14 +36,13 @@
 ### **Pregunta**
 
 >***Con un número entero dado por consola, n, escriba un programa para generar un diccionario que contenga como llave X y como valor el cuadrado de X tal que X sea un número entero entre 1 y n (ambos incluidos), y luego el programa debe imprimir el diccionario.***
-
-***La siguiente entrada al programa:***
+>***La siguiente entrada al programa:***
 
 ```python
 8
 ```
 
-***Entonces, la salida debería ser:***
+>***Entonces, la salida debería ser:***
 
 ```python
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
@@ -51,7 +50,7 @@
 
 ### Consejos
 
->***Para esta pregunta se usara el built-in dic(). Si no se tiene conocimiento de esta estructura de datos puede visitar el siguiente [link] (<https://devcode.la/tutoriales/diccionarios-en-python/)>***
+>***Para esta pregunta se usara el built-in dic(). Si no se tiene conocimiento de esta estructura de datos puede visitar el siguiente [link](https://devcode.la/tutoriales/diccionarios-en-python/)***
 
 -----------------
 
