@@ -10,4 +10,4 @@
 
 ## Selección Diaria
 
-***[Día 1](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md)**- ***Preguntas 1-3***
+* **[Día 1](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md)**- ***Preguntas 1-3***
