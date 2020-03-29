@@ -2,7 +2,7 @@
 
 ## Introducción
 
-***Los ejercicios y parte del contenido de este repositorio fueron recopilados de [zhiwehu] (<https://github.com/zhiwehu/Python-programming-exercises).> La intención principal de este repositorio es practicar y resolver todos los problemas, distribuidos por días, haciendo uso de lenguaje Python. Si eres un principiante con Python, entonces espero que este repo con mas de 100 ejercicios te ayude a afianzar o empezar tus conocimientos con Python.***
+***Los ejercicios y parte del contenido de este repositorio fueron recopilados de [zhiwehu](https://github.com/zhiwehu/Python-programming-exercises). La intención principal de este repositorio es practicar y resolver todos los problemas, distribuidos por días, haciendo uso de lenguaje Python. Si eres un principiante con Python, entonces espero que este repo con mas de 100 ejercicios te ayude a afianzar o empezar tus conocimientos con Python.***
 
 ***Los problemas están escritos en lenguaje sencillo y son fáciles de entender. La idea de separarlos por días es debido a que estos problemas estarán acompañados de links para poder hacer un reconocimiento teórico, en caso fuera necesario, así que esto podría tomar su tiempo, además se busca no aburrir a los interesados.***
 
@@ -10,4 +10,4 @@
 
 ## Selección Diaria
 
-* **[Día 1](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md)**- ***Preguntas 1-3***
+* **[Día 1](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md)** - ***Preguntas 1-3***
