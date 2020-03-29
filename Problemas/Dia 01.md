@@ -63,3 +63,5 @@
 >***Para esta pregunta se usara el built-in dic(). Si no se tiene conocimiento de esta estructura de datos puede visitar el siguiente [link] (<https://devcode.la/tutoriales/diccionarios-en-python/)>***
 
 -----------------
+
+[***Ir al siguiente dia***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2002.md "Dia 2")
