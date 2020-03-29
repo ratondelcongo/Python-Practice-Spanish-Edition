@@ -6,13 +6,9 @@
 
 >***Escribe un programa que pueda encotrar la suma de todos los numeros que sean divisibles por 7 pero no 5 y que esten entre 2000 y 3000(ambos incluidos). Los numeros impresos deberan estar separados por uan coma.***
 
----------------;
-
 ### Consejos
 
 >***Considere usar la funcion range(inicio, fin)***
-
----------------;
 
 ## Pregunta 2
 
@@ -31,12 +27,9 @@
 40320
 ```
 
----------------;
-
 ### Consejos
 
 >***Considere usar la funcion input() para poder leer datos por consola.***
----------------;
 
 ## Pregunta 3
 
@@ -55,8 +48,6 @@
 ```python
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
 ```
-
----------------;
 
 ### Consejos
 
