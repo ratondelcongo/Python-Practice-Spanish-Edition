@@ -11,3 +11,5 @@
 ## Selección Diaria
 
 * **[Día 1](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md)** - ***Preguntas 1-3***
+
+* **[Día 2](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2002.md)** - ***Preguntas 4-9***
