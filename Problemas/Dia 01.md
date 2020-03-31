@@ -52,4 +52,7 @@
 
 -----------------
 
+[***Solucion de este dia***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Soluciones/Dia%2001.md)
+
 [***Ir al siguiente dia***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2002.md "Dia 2")
+

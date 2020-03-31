@@ -116,4 +116,4 @@ PRACTICE MAKES PERFECT
 -----------------
 [***Ir al dia anterior***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2001.md "Day 1")
 
-[***Ir al siguiente dia***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2002.md "Dia 2")
+[***Ir al siguiente dia***](https://github.com/ratondelcongo/Python-Practice-Spanish-Edition/blob/master/Problemas/Dia%2003.md "Dia 3")
